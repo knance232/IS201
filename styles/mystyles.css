@@ -1,0 +1,46 @@
+.cooltext {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cooltext2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cooltext3 {
+    font-family:cursive;
+}
+
+.center {
+    text-align: center;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+.active {
+    font-style: italic;
+}
+
+.font {
+    font-size: 30px;
+}
+
+.image1 {
+    margin-left: 450px;
+    margin-right:1500px;
+}
+
+.image2 {
+    margin-left: 500px;
+    margin-right:2000px;
+}
+
+.image3 {
+    margin-left: 550px;
+    margin-right:2500px;
+}
+
+li{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
